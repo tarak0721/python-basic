@@ -1,0 +1,653 @@
+
+Code
+pwd
+jupyter
+True + True
+True + True
+a=input()
+a
+a+b
+a+b
+int(a)+b
+b=45
+int(a)+b
+int("24456")
+str(34567)
+pwd
+pwd
+sudh
+s="sudh"
+0
+s[0]
+1
+s[1]
+2
+s[2]
+3
+s[3]
+1
+s[-1]
+-2
+s[-2]
+-3
+s[-3]
+-4
+s[-4]
+100
+s[100]
+2
+s[0:2]
+ineuron
+s="ineuron"
+0:3
+s[0:3]
+0:300
+s[0:300]
+900
+s[0:900]
+-100
+s[-100]
+-1:-4
+s[-1:-4]
+kumar
+s="kumar"
+0:300
+s[0:300]
+0:300:2
+s[0:300:2]
+0:300:3
+s[0:300:3]
+100:-1
+s[0:100:-1]
+-4:-1:-1
+s[-4:-1:-1]
+-4:-1:-1
+s[-4:-1:-1]
+:-1]
+s[-4:-2:-1]
+"
+s="kumar"
+1:-1
+s[-4:-1:-1]
+-1
+s[-1:-4:-1]
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/179099231.py in <module>
+----> 1 s[-1:-4:-1]
+
+NameError: name 's' is not defined
+
+s="kumar"
+-4:-1:-1
+s[-4:-1:-1]
+''
+0:-3:-1
+s[0:-3:-1]
+''
+s
+s
+'kumar'
+-4:-1:-1
+s[-4:-1:-1]
+''
+4:-1
+s[-1:-4:-1]
+'ram'
+-1
+s[0:-10:-1]
+'k'
+::
+s[::]
+'kumar'
+:
+s[:]
+'kumar'
+:8
+s[:8]
+'kumar'
+s[-2:]
+'ar'
+s[-2:-1]
+'a'
+::-1
+s[::-1]
+'ramuk'
+-1::-1
+s[-1::-1]
+'ramuk'
+3:4
+s[3:4]
+'a'
+3:5
+s[3:5]
+'ar'
+i am working with ineuron
+s="i am working with ineuron"
+:-1
+s=[-2:-10:-1]
+  File "C:\Users\HP\AppData\Local\Temp/ipykernel_14696/2301727957.py", line 1
+    s=[-2:-10:-1]
+         ^
+SyntaxError: invalid syntax
+
+
+-2:-10:-1
+s[-2:-10:-1]
+'orueni h'
+*3
+"sudh"*3
+'sudhsudhsudh'
+s
+len[s]
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/3640856184.py in <module>
+----> 1 len[s]
+
+TypeError: 'builtin_function_or_method' object is not subscriptable
+
+s
+len(s)
+25
+a
+s.find("a")
+2
+i
+s.find("i")
+0
+ia
+s.fnd("ia")
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/1924719882.py in <module>
+----> 1 s.fnd("ia")
+
+AttributeError: 'str' object has no attribute 'fnd'
+
+ia
+s.find("ia")
+-1
+in
+s.find("in")
+9
+i
+s.count("i")
+4
+x
+s.count("x")
+0
+s.split()
+['i', 'am', 'working', 'with', 'ineuron']
+type(s.split())
+list
+l=s.split()
+l
+l
+['i', 'am', 'working', 'with', 'ineuron']
+2
+l(0:3:2)
+  File "C:\Users\HP\AppData\Local\Temp/ipykernel_14696/212232230.py", line 1
+    l(0:3:2)
+       ^
+SyntaxError: invalid syntax
+
+
+l(0)
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/3841267438.py in <module>
+----> 1 l(0)
+
+TypeError: 'list' object is not callable
+
+2
+l[0:3:2]
+['i', 'working']
+3:3
+l(0:3:3)
+  File "C:\Users\HP\AppData\Local\Temp/ipykernel_14696/2514439958.py", line 1
+    l(0:3:3)
+       ^
+SyntaxError: invalid syntax
+
+
+l[0:3:3]
+['i']
+3
+l[0:2:3]
+['i']
+l(0:2:1)
+  File "C:\Users\HP\AppData\Local\Temp/ipykernel_14696/624651109.py", line 1
+    l(0:2:1)
+       ^
+SyntaxError: invalid syntax
+
+
+0:2:1
+l[0:2:1]
+['i', 'am']
+w
+s.split("w")
+['i am ', 'orking ', 'ith ineuron']
+3
+l[0:3:3]
+['i']
+2
+l[0:3:2]
+['i', 'working']
+5:2
+l[0:5:2]
+['i', 'working', 'ineuron']
+l.upper()
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/447581512.py in <module>
+----> 1 l.upper()
+
+AttributeError: 'list' object has no attribute 'upper'
+
+s.upper()
+'I AM WORKING WITH INEURON'
+=sUdh
+s=sUdh
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/494394001.py in <module>
+----> 1 s=sUdh
+
+NameError: name 'sUdh' is not defined
+
+sUdh
+w="sUdh"
+w.swapcase()
+'SuDH'
+w.title()
+'Sudh'
+w.capitalize()
+'Sudh'
+c=ineuron
+b=tarak
+c=ineuron
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/36716829.py in <module>
+----> 1 b=tarak
+      2 c=ineuron
+
+NameError: name 'tarak' is not defined
+
+tarak
+b="tarak"
+neuron
+c="ineuron"
+c
+b.join(c)
+'itarakntaraketarakutarakrtarakotarakn'
+b
+"".join(b)
+'tarak'
+b
+" ".join(b)
+'t a r a k'
+t=" rishabh "
+t.rstrip()
+' rishabh'
+t.lstrip()
+'rishabh '
+t.strip()
+'rishabh'
+t="rishabh"
+xyz
+t.replace("i","xyz")
+'rxyzshabh'
+tarak/"tsudh"
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/621857062.py in <module>
+----> 1 tarak/"tsudh"
+
+NameError: name 'tarak' is not defined
+
+"tarak"/"tsudh".expandtabs()
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/154561665.py in <module>
+----> 1 "tarak"/"tsudh".expandtabs()
+
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+"tarak"\"tsudh".expandtabs()
+  File "C:\Users\HP\AppData\Local\Temp/ipykernel_14696/2449000973.py", line 1
+    "tarak"\"tsudh".expandtabs()
+                               ^
+SyntaxError: unexpected character after line continuation character
+
+
+s="tarak"
+"tarak"\"tsudh".expandtabs()
+  File "C:\Users\HP\AppData\Local\Temp/ipykernel_14696/2449000973.py", line 1
+    "tarak"\"tsudh".expandtabs()
+                               ^
+SyntaxError: unexpected character after line continuation character
+
+
+"tarak\tsudh".expandtabs()
+'tarak   sudh'
+<3
+s.center(40,"<3")
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/1536815168.py in <module>
+----> 1 s.center(40,"<3")
+
+TypeError: The fill character must be exactly one character long
+
+#
+s.center(40,"#")
+'#################tarak##################'
+#
+s.center(1000,"#")
+'#################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################tarak##################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################'
+s.isupper
+<function str.isupper()>
+s.isupper()
+False
+s.islower()
+True
+s.isspace()
+False
+       
+s="       "
+s.isspace()
+True
+s.isdigit()
+False
+"
+s="43545"
+s.isdigit()
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/665735919.py in <module>
+----> 1 s.isdigit()
+
+AttributeError: 'int' object has no attribute 'isdigit'
+
+s="sudh"
+h
+s.endswith("h")
+True
+s
+s.startswith("s")
+True
+=22
+bacon=22
+1
+bacon+1
+23
+spamspam
+"spam"+"spamspam"
+'spamspamspam'
+*3
+"spam"*3
+'spamspamspam'
+"i habe eaten"+"99"
+'i habe eaten99'
+l=["sudh" , "kumar" , 3543, 4+6j , True , 345.56]
+l=["sudh" , "kumar" , 3543, 4+6j , True , 345.56]
+type(l)
+list
+0
+l[0]
+'sudh'
+1
+l[-1]
+345.56
+-5
+l[-5]
+'kumar'
+0:4
+l[0:4]
+['sudh', 'kumar', 3543, (4+6j)]
+::-1
+l[::-1]
+[345.56, True, (4+6j), 3543, 'kumar', 'sudh']
+-1:6
+l[-1:6]
+[345.56]
+0
+l[0]
+'sudh'
+u
+l[u]
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/3501068165.py in <module>
+----> 1 l[u]
+
+NameError: name 'u' is not defined
+
+u
+l["u"]
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/2721186602.py in <module>
+----> 1 l["u"]
+
+TypeError: list indices must be integers or slices, not str
+
+0
+l.split[0]
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/2432259739.py in <module>
+----> 1 l.split[0]
+
+AttributeError: 'list' object has no attribute 'split'
+
+l=s.split()
+0
+s.split(0)
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/4189214992.py in <module>
+----> 1 s.split(0)
+
+TypeError: must be str or None, not int
+
+u
+s.split("u")
+['s', 'dh']
+1
+l[0][1]
+'u'
+2
+l[0][2]
+'d'
+3
+l[3]
+---------------------------------------------------------------------------
+IndexError                                Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/219327365.py in <module>
+----> 1 l[3]
+
+IndexError: list index out of range
+
+3
+l[3]
+---------------------------------------------------------------------------
+IndexError                                Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/219327365.py in <module>
+----> 1 l[3]
+
+IndexError: list index out of range
+
+0
+l[0]
+'sudh'
+1
+l[1]
+---------------------------------------------------------------------------
+IndexError                                Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/3036126383.py in <module>
+----> 1 l[1]
+
+IndexError: list index out of range
+
+l=["sudh" , "kumar" , 3543, 4+6j , True , 345.56]
+3
+l[3]
+(4+6j)
+0
+l[3][0]
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/3775892642.py in <module>
+----> 1 l[3][0]
+
+TypeError: 'complex' object is not subscriptable
+
+1
+l[3][1]
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/227624749.py in <module>
+----> 1 l[3][1]
+
+TypeError: 'complex' object is not subscriptable
+
+.real
+l[3].real
+4.0
+.complex
+l[3].complex
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/537134227.py in <module>
+----> 1 l[3].complex
+
+AttributeError: 'complex' object has no attribute 'complex'
+
+.imag
+l[3].imag
+6.0
+l1=["sudh","kumar",4356]
+l2=["xyz","pqr",345.56]
+l1+l2
+l1+l2
+['sudh', 'kumar', 4356, 'xyz', 'pqr', 345.56]
+dh
+l1+"sudh"
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/3700380478.py in <module>
+----> 1 l1+"sudh"
+
+TypeError: can only concatenate list (not "str") to list
+
+sudh
+l1+["sudh"]
+['sudh', 'kumar', 4356, 'sudh']
+l1*4
+l1*4
+['sudh',
+ 'kumar',
+ 4356,
+ 'sudh',
+ 'kumar',
+ 4356,
+ 'sudh',
+ 'kumar',
+ 4356,
+ 'sudh',
+ 'kumar',
+ 4356]
+l1
+['sudh', 'kumar', 4356]
+tarak
+l1.replace("sudh","tarak")
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/2697373395.py in <module>
+----> 1 l1.replace("sudh","tarak")
+
+AttributeError: 'list' object has no attribute 'replace'
+
+1
+l1[0]="tarak"
+l1
+['tarak', 'kumar', 4356]
+l1[1]
+
+1
+l1[1]
+'kumar'
+a
+l1[1]="a"
+l1
+l1
+['tarak', 'a', 4356]
+s="kumar"
+s
+s[0]="s"
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/1744225972.py in <module>
+----> 1 s[0]="s"
+
+TypeError: 'str' object does not support item assignment
+
+345 in l1
+345 in l1
+False
+:-1
+l=["kumar", "sudh", 83,4,5,6.7,True,5+6j]
+l[-1:6:-1]
+[(5+6j)]
+l2
+l2
+['xyz', 'pqr', 345.56]
+sudh
+l2.append("sudh")
+l2
+l2
+['xyz', 'pqr', 345.56, 'sudh']
+l2.pop()
+'sudh'
+-2
+l2.pop(-2)
+'pqr'
+fdgdgf
+l2.insert(3,"fdgdgf")
+l2
+l2
+['xyz', 345.56, 'fdgdgf']
+l2.count(345.56)
+1
+l2.append("xyz")
+l2
+l2
+['xyz', 345.56, 'fdgdgf', 'xyz']
+3,5,6,8,97
+l2.append([3,5,6,8,97])
+l2
+l2
+['xyz', 345.56, 'fdgdgf', 'xyz', [3, 5, 6, 8, 97]]
+l1
+l1
+['tarak', 'a', 4356]
+sudh
+l1.extend([3,5,5,8,9],"sudh")
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+~\AppData\Local\Temp/ipykernel_14696/2946174137.py in <module>
+----> 1 l1.extend([3,5,5,8,9],"sudh")
+
+TypeError: list.extend() takes exactly one argument (2 given)
+
+l1.extend([3,6,7,8,"sudh"])
+l1
+l1
+['tarak', 'a', 4356, 3, 6, 7, 8, 'sudh']
+print(l2.reverse())
+None
